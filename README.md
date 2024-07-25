@@ -28,7 +28,7 @@ Documentation: https://stable-baselines3.readthedocs.io/en/master/
 
 ### 4. Install python packages Tensorflow and Open-CV.
 
-- `pip install TensorFlow`
+- `pip install tensorflow`
 -  `pip install opencv-python`
 
 
