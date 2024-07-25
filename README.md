@@ -5,6 +5,8 @@ The files provided are courtesy of the Youtube channel 'Full Sim Driving'.
 The link to the video can be found here: https://www.youtube.com/watch?v=f31Mu5Yxc60&list=PLKtcx3w8WPyP7rxCHByn9pt66sT4hi3Jp.
 
 The carenv.py and train.py files have been slightly altered to fit the current standards. 
+
+Documentation: https://stable-baselines3.readthedocs.io/en/master/
 ## Package Setup
 ### 1. Create a conda environment if you have not already done so. 
 
