@@ -13,7 +13,7 @@ Documentation: https://stable-baselines3.readthedocs.io/en/master/
 - https://docs.anaconda.com/miniconda/
 - `conda create -n carla python=3.8`
 - Keep in mind, this will require python 3.8 to run Carla properly
-- Remember that you can always create a new environment if an old one has been messed up.
+- Remember that you can always create a new environment, if an old one has been messed up.
 
 
 ### 2. Activate your Conda Environment in the command line
