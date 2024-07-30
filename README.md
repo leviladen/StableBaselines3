@@ -38,9 +38,9 @@ Documentation: https://stable-baselines3.readthedocs.io/en/master/
 
 ![image](https://github.com/user-attachments/assets/b319b76a-bdbf-46e6-b5f6-813453eb55e3)
 
-## Run Files
+## Run Files on the GUI
 #### Disclaimer
-I used Visual Studio Code for my IDE, but you may use whichever IDE you want. Just make sure to follow the same steps, however the execution could be slightly different based on which IDE you use. 
+I used Visual Studio Code for my IDE on Nautilus, but you may use whichever IDE you want. Just make sure to follow the same steps, however the execution could be slightly different based on which IDE you use. 
 
 ### 1. Open the files train.py and carenv.py in your IDE, and activate the Conda Environment in your terminal 
 ![image](https://github.com/user-attachments/assets/934c9a01-c2f7-49d3-8164-a823b5151cbc)
